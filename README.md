@@ -1,2 +1,8 @@
-# Seg-Mamba-
+# Seg-Mamba
 Long-Term Time Series Forecasting
+
+
+Environment
+
+
+
